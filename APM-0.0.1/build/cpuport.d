@@ -1,0 +1,9 @@
+.\build\cpuport.o: ..\rt-thread-2.1.0\libcpu\arm\cortex-m4\cpuport.c
+.\build\cpuport.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\cpuport.o: .\rtconfig.h
+.\build\cpuport.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\cpuport.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\cpuport.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\cpuport.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\cpuport.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\cpuport.o: ..\rt-thread-2.1.0\include\rtthread.h

@@ -1,0 +1,10 @@
+.\build\ipc.o: ..\rt-thread-2.1.0\src\ipc.c
+.\build\ipc.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\ipc.o: .\rtconfig.h
+.\build\ipc.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\ipc.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\ipc.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\ipc.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\ipc.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\ipc.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\ipc.o: ..\rt-thread-2.1.0\include\rthw.h

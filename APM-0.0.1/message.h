@@ -1,0 +1,1 @@
+int messageq_simple_init();

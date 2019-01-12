@@ -1,0 +1,11 @@
+.\build\app_uart.o: hardware\app_uart.c
+.\build\app_uart.o: ..\rt-thread-2.1.0\include\rthw.h
+.\build\app_uart.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\app_uart.o: .\rtconfig.h
+.\build\app_uart.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\app_uart.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\app_uart.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\app_uart.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\app_uart.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\app_uart.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\app_uart.o: hardware\app_uart.h

@@ -1,0 +1,10 @@
+.\build\components.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\src\components.c
+.\build\components.o: ..\rt-thread-2.1.0\include\rthw.h
+.\build\components.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\components.o: .\rtconfig.h
+.\build\components.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\components.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\components.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\components.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\components.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\components.o: ..\rt-thread-2.1.0\include\rtthread.h

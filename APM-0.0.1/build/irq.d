@@ -1,0 +1,10 @@
+.\build\irq.o: ..\rt-thread-2.1.0\src\irq.c
+.\build\irq.o: ..\rt-thread-2.1.0\include\rthw.h
+.\build\irq.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\irq.o: .\rtconfig.h
+.\build\irq.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\irq.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\irq.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\irq.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\irq.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\irq.o: ..\rt-thread-2.1.0\include\rtthread.h

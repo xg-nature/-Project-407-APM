@@ -1,0 +1,9 @@
+.\build\backtrace.o: ..\rt-thread-2.1.0\libcpu\arm\common\backtrace.c
+.\build\backtrace.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\backtrace.o: .\rtconfig.h
+.\build\backtrace.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\backtrace.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\backtrace.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\backtrace.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\backtrace.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\backtrace.o: ..\rt-thread-2.1.0\include\rtthread.h

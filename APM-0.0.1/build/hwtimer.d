@@ -1,0 +1,14 @@
+.\build\hwtimer.o: ..\rt-thread-2.1.0\components\drivers\hwtimer\hwtimer.c
+.\build\hwtimer.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\hwtimer.o: .\rtconfig.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\hwtimer.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/serial.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/pin.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\hwtimer.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/hwtimer.h

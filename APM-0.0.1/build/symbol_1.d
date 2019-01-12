@@ -1,0 +1,16 @@
+.\build\symbol_1.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\components\finsh\symbol.c
+.\build\symbol_1.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\components\finsh\finsh.h
+.\build\symbol_1.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\symbol_1.o: .\rtconfig.h
+.\build\symbol_1.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\symbol_1.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\symbol_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\symbol_1.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\symbol_1.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\symbol_1.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\symbol_1.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\components\finsh\finsh_api.h
+.\build\symbol_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\build\symbol_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\symbol_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\symbol_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\symbol_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h

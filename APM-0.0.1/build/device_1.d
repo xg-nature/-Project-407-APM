@@ -1,0 +1,9 @@
+.\build\device_1.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\src\device.c
+.\build\device_1.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\device_1.o: .\rtconfig.h
+.\build\device_1.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\device_1.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\device_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\device_1.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\device_1.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\device_1.o: ..\rt-thread-2.1.0\include\rtthread.h

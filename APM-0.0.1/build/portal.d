@@ -1,0 +1,14 @@
+.\build\portal.o: ..\rt-thread-2.1.0\components\drivers\src\portal.c
+.\build\portal.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\portal.o: .\rtconfig.h
+.\build\portal.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\portal.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\portal.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\portal.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\portal.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\portal.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\portal.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\portal.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/serial.h
+.\build\portal.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/pin.h
+.\build\portal.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\portal.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/hwtimer.h

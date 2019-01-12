@@ -1,0 +1,15 @@
+.\build\dataqueue.o: ..\rt-thread-2.1.0\components\drivers\src\dataqueue.c
+.\build\dataqueue.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\dataqueue.o: .\rtconfig.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\dataqueue.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/serial.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/pin.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/hwtimer.h
+.\build\dataqueue.o: ..\rt-thread-2.1.0\include\rthw.h

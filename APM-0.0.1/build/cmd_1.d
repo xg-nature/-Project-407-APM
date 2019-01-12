@@ -1,0 +1,16 @@
+.\build\cmd_1.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\components\finsh\cmd.c
+.\build\cmd_1.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\cmd_1.o: .\rtconfig.h
+.\build\cmd_1.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\cmd_1.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\cmd_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\cmd_1.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\cmd_1.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\cmd_1.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\cmd_1.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\components\finsh\finsh.h
+.\build\cmd_1.o: D:\MDK\ARM\PACK\rt-thread\rtthread\3.0.3\components\finsh\finsh_api.h
+.\build\cmd_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\build\cmd_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\cmd_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\cmd_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\cmd_1.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h

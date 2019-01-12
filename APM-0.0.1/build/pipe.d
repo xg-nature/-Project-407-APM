@@ -1,0 +1,15 @@
+.\build\pipe.o: ..\rt-thread-2.1.0\components\drivers\src\pipe.c
+.\build\pipe.o: ..\rt-thread-2.1.0\include\rthw.h
+.\build\pipe.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\pipe.o: .\rtconfig.h
+.\build\pipe.o: ..\rt-thread-2.1.0\include\rtdebug.h
+.\build\pipe.o: ..\rt-thread-2.1.0\include\rtdef.h
+.\build\pipe.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\pipe.o: ..\rt-thread-2.1.0\include\rtservice.h
+.\build\pipe.o: ..\rt-thread-2.1.0\include\rtm.h
+.\build\pipe.o: ..\rt-thread-2.1.0\include\rtthread.h
+.\build\pipe.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\pipe.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/serial.h
+.\build\pipe.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/pin.h
+.\build\pipe.o: ..\rt-thread-2.1.0\components\drivers\include\rtdevice.h
+.\build\pipe.o: ..\rt-thread-2.1.0\components\drivers\include\drivers/hwtimer.h
